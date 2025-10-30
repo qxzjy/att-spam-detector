@@ -16,7 +16,7 @@ Our goal is to build a spam detector, that can automatically flag spams as they 
 
 | Name | Description |
 |:-|:-|
-| <ins>_00_project.ipynb_</ins> | Preprocessing (encoding), NN and NN from Transformer |
+| [00_project.ipynb](./notebooks/00_project.ipynb) | Preprocessing (encoding), NN and NN from Transformer |
 
 ## Author
 
